@@ -1,4 +1,4 @@
-package tondeuse.objet;
+package tondeuse.domaine;
 
 /**
  * @author CISSE Abdoulaye 2022-08-09

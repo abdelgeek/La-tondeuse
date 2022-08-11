@@ -1,4 +1,4 @@
-package tondeuse.objet;
+package tondeuse.domaine;
 
 import java.util.List;
 

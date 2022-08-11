@@ -3,9 +3,9 @@ package tondeuse.utils;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import tondeuse.objet.Instruction;
-import tondeuse.objet.Orientation;
-import tondeuse.objet.Tondeuse;
+import tondeuse.domaine.Instruction;
+import tondeuse.domaine.Orientation;
+import tondeuse.domaine.Tondeuse;
 
 /**
  * Cette classe permet de recuperer une tondeuse presente dans le fichier

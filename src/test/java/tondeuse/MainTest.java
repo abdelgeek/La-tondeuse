@@ -10,9 +10,9 @@ import org.junit.jupiter.api.Test;
 class MainTest {
 
   @Test
-  public void testMain() throws Exception {
+  void testMain() throws Exception {
 
-    String urlFichier = "/home/inexa-pc/workspace/tondeuse/src/main/resources/tondeuxe.txt";
+    String urlFichier = "src/test/resources/tondeuxe.txt";
     Main.main(new String[] {urlFichier});
   }
 }

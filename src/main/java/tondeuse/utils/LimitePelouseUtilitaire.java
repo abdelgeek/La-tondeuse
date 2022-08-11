@@ -1,7 +1,7 @@
 package tondeuse.utils;
 
 import java.util.Iterator;
-import tondeuse.objet.LimitePelouse;
+import tondeuse.domaine.LimitePelouse;
 
 /**
  * Cette classe permet de recuperer les limites de la pelouses
